@@ -9,13 +9,13 @@ I'm **Lucky Victory**, a passionate Web Developer with a keen interest in design
 
 
 ### 🔧 Technologies & Tools 
-![MySQL](https://img.shields.io/badge/Tool-MySQL-blue)
-![VSCode](https://img.shields.io/badge/Editor-VScode-blue)
-![Javascript](https://img.shields.io/badge/Code-Javascript-blue)
-![ReactJs](https://img.shields.io/badge/Code-React-blue)
-![Node js](https://img.shields.io/static/v1?style=flat&label=Tool&message=HarperDB&color=blue&&logoColor=whit)
-![Gitpod](https://img.shields.io/static/v1?style=flat&label=Editor&message=Gitpod&color=blue&&logoColor=white&logo=gitpod)
-![HarperDB](https://img.shields.io/static/v1?style=flat&label=Tool&message=HarperDB&color=blue&&logoColor=white)
+![MySQL](https://img.shields.io/static/v1?style=flat&label=Tool&message=MySQL&color=blue&logoColor=white&logo=mysql)
+![VSCode](https://img.shields.io/static/v1?style=flat&label=Editor&message=VScode&color=blue&logoColor=white&logo=visualstudiocode)
+![Javascript](https://img.shields.io/static/v1?style=flat&label=Code&message=Javascript&color=blue&logoColor=white&logo=javascript)
+![ReactJs](https://img.shields.io/static/v1?style=flat&label=Code&message=React&color=blue&logoColor=white&logo=react)
+![Node js](https://img.shields.io/static/v1?style=flat&label=Code&message=NodeJS&color=blue&logoColor=white&logo=nodedotjs)
+![Gitpod](https://img.shields.io/static/v1?style=flat&label=Editor&message=Gitpod&color=blue&logoColor=white&logo=gitpod)
+![HarperDB](https://img.shields.io/static/v1?style=flat&label=Tool&message=HarperDB&color=blue&logoColor=white)
 
 ## 📌 Open source projects
 ![Lucky victory's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=lucky-victory&theme=radical&repo=harpee)
