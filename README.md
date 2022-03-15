@@ -13,4 +13,6 @@ I'm **Lucky Victory**, a software engineer with a keen interest in designs.
 ### Technologies & Tools
 
 ### Stats
-![Lucky victory's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucky-victory&theme=radical&langs_count=5)
+![Lucky victory's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucky-victory&theme=radical)
+![Lucky victory's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=lucky-victory&theme=radical&repo=harpee&layout=compact)
+![Lucky victory's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=lucky-victory&theme=radical)
