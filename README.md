@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello folks 👋
+I'm **Lucky Victory**, a software engineer with a keen interest in designs.
 
-<!--
-**Lucky-victory/lucky-victory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on a series of APIs
+- 🌱 I’m currently learning NodeJS, MySQL, and React
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with freelancing
+- 💬 Ask me about CSS, JavaScript 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### Technologies & Tools
+
+### Stats
+![Lucky victory's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucky-victory&theme=radical&langs_count=5)
