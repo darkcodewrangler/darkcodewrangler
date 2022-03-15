@@ -8,8 +8,14 @@ I'm **Lucky Victory**, a passionate Web Developer with a keen interest in design
 - 💬 Ask me about CSS, JavaScript 
 
 
-### 🔧 Technologies & Tools
-
+### 🔧 Technologies & Tools 
+![](https://img.shields.io/badge/Tool-MySQL-blue)
+![](https://img.shields.io/badge/Editor-VScode-blue)
+![](https://img.shields.io/badge/Code-Javascript-blue)
+![](https://img.shields.io/badge/Code-React-blue)
+![](https://img.shields.io/badge/Code-NodeJS-blue)
+![](https://img.shields.io/badge/Editor-gitpod-blue)
+![](https://img.shields.io/static/v1?style=flat&label=Tool&message=HarperDB&color=blue&&logoColor=white&logo=appveyor)
 ## 📌 Open source projects
 ![Lucky victory's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=lucky-victory&theme=radical&repo=harpee)
 
