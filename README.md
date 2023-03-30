@@ -7,7 +7,7 @@ Web developer
 An enthusiastic Web developer with a keen interest in designs, started as a frontend developer but have found a passion for backend development.
 
 * 🌍  I'm based in Lagos, Nigeria.
-* 🖥️  See my portfolio at [lucky-victory.dev](http://me.lucky-victory.dev)
+* 🖥️  See my portfolio at [lucky-victory.dev](https://lucky-victory.dev)
 * ✉️  You can contact me at [luckyvictory54@gmail.com](mailto:luckyvictory54@gmail.com)
 * 🧠  I'm learning Angular
 
