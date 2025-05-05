@@ -7,8 +7,8 @@ Web developer
 An enthusiastic Web developer with a keen interest in designs, started as a frontend developer but have found a passion for backend development.
 
 * 🌍  I'm based in Lagos, Nigeria.
-* 🖥️  See my portfolio at [devvick.com](https://www.devvick.com)
-* ✉️  You can contact me at [contact@devvick.com](mailto:contact@devvick.com)
+* 🖥️  See my portfolio at [devvick.com](https://www.devvick.online)
+* ✉️  You can contact me at [info@geltechng.com](mailto:info@geltechng.com)
 * 🧠  I'm learning Angular'
 
 <a href="https://www.twitter.com/lucky_victory1" target="_blank" rel="noreferrer"><img
