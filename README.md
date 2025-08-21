@@ -44,12 +44,11 @@ I’m a **Frontend-focused Full-Stack Developer** with 5+ years of experience bu
 ### 🌐 Socials
 
 <p align="left">
-<a href="https://github.com/lucky-victory"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
-<a href="https://www.linkedin.com/in/lucky-victory-success"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
-<a href="https://twitter.com/lucky_victory1"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a>
+<a href="https://github.com/darkcodewrangler"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
+<a href="https://twitter.com/codewithveek"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a>
 <a href="https://blog.devvick.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" /></a>
 <a href="https://www.instagram.com/lucky_victory1"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" /></a>
-<a href="https://www.polywork.com/lucky_victory"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" /></a>
+<a href="https://www.dev.to/codewithvick"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devto.svg" width="32" /></a>
 </p>  
 
 ---
