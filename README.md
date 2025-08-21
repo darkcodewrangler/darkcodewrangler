@@ -1,50 +1,59 @@
-Hi 👋 My name is Lucky Victory
-==============================
+# 💫 About Me:
 
-Web developer
--------------
+### Full-Stack Developer | Frontend-Focused | Problem Solver
 
-An enthusiastic Web developer with a keen interest in designs, started as a frontend developer but have found a passion for backend development.
+I’m a **Frontend-focused Full-Stack Developer** with 5+ years of experience building **high-performance applications** using React, Next.js, TypeScript, and modern backend tools. I’m passionate about crafting **scalable, responsive, and user-friendly interfaces**, with a proven track record in **performance optimization, state management, and CI/CD automation**.
 
-* 🌍  I'm based in Lagos, Nigeria.
-* 🖥️  See my portfolio at [geltechng.com](https://www.geltechng.com)
-* ✉️  You can contact me at [info@geltechng.com](mailto:info@geltechng.com)
-* 🧠  I'm learning Angular'
 
-<a href="https://www.twitter.com/lucky_victory1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/lucky_victory1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/lucky-victory" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lucky-victory?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+* 🚀 Currently working on **AI-powered platforms & SaaS tools**
+* 🧠 Exploring **Hono.js & advanced DevOps workflows**
 
-### Skills
+---
 
+### 🛠️ Skills
+
+**Frontend:** React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+**State Management:** Redux Toolkit, Context API, Zustand
+**Backend:** Node.js, Express.js, Hono.js
+**Databases:** MySQL, TiDB, Supabase, Prisma ORM, Drizzle ORM
+**DevOps:** GitHub Actions, CI/CD, Performance Optimization
+**Other:** REST APIs, Authentication (NextAuth), Responsive Design
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" /></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" /></a>
+</p>  
 
+---
 
-### Socials
+### 🚀 Featured Projects
 
-<p align="left"> <a href="https://www.codepen.io/victory-lucky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/luckyvictory" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/lucky-victory" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://blog.devvick.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/lucky_victory1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/lucky-victory-success" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/lucky_victory" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/lucky_victory1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+* **[BizManager](https://www.bizmanager.africa):** SME bookkeeping tool – reduced record errors by 50%.
+* **[SavvReal Estate](https://savvreal-estate.gelapps.online):** Property listing platform.
+* **[DevSend](https://devsend.netlify.app):** SaaS email automation platform with drag-and-drop builder, analytics & workflows.
+* **[TradeKit](https://tradekit.fun):** AI-powered trading agent platform with NLP strategy creation & real-time execution.
+* **[Blog CMS](https://blog.devvick.online):** Custom CMS powering multiple blogs.
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 🌐 Socials
 
-<a href="http://www.github.com/lucky-victory"><img src="https://github-readme-stats.vercel.app/api?username=lucky-victory&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lucky-victory's GitHub stats" /></a>
+<p align="left">
+<a href="https://github.com/lucky-victory"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
+<a href="https://www.linkedin.com/in/lucky-victory-success"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
+<a href="https://twitter.com/lucky_victory1"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a>
+<a href="https://blog.devvick.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" /></a>
+<a href="https://www.instagram.com/lucky_victory1"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" /></a>
+<a href="https://www.polywork.com/lucky_victory"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" /></a>
+</p>  
 
-<a href="http://www.github.com/lucky-victory"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky-victory&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="http://www.github.com/lucky-victory"><img src="https://activity-graph.herokuapp.com/graph?username=lucky-victory&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### 📊 GitHub Stats
 
-<a href="https://github.com/lucky-victory" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-victory&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<a href="https://github.com/lucky-victory"><img src="https://github-readme-stats.vercel.app/api?username=lucky-victory&show_icons=true&theme=radical" /></a> <a href="https://github.com/lucky-victory"><img src="https://github-readme-streak-stats.herokuapp.com?user=lucky-victory&theme=radical" /></a> <a href="https://github.com/lucky-victory"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-victory&layout=compact&theme=radical" /></a>
