@@ -37,7 +37,7 @@ I’m a **Frontend-focused Full-Stack Developer** with 5+ years of experience bu
 * **[SavvReal Estate](https://savvreal-estate.gelapps.online):** Property listing platform.
 * **[DevSend](https://devsend.netlify.app):** SaaS email automation platform with drag-and-drop builder, analytics & workflows.
 * **[TradeKit](https://tradekit.fun):** AI-powered trading agent platform with NLP strategy creation & real-time execution.
-* **[Blog CMS](https:/github.com/darkcodewrangler/penstack):** Custom CMS powering multiple blogs.
+* **[Blog CMS](https://github.com/darkcodewrangler/penstack-blog):** Custom CMS powering multiple blogs.
 
 ---
 
